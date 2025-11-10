@@ -11,14 +11,15 @@ This foundational work established the core logic for Medcare's automated patien
 
 ## Medcare Triage Rule - Classification Pipeline
 This notebook implements a classification pipeline to predict the Triage Level and Triage Color based on patient symptoms using a medical triage rule dataset.
-1. Import Libraries
+
+## 1. Import Libraries
 | Cell | Code |
 |---|---|
 | Code 11 | ```python |
 ===========================================
 Medcare Triage Rule - Full Pipeline
 ===========================================
-##--- 1. IMPORT LIBRARIES ---
+--- 1. IMPORT LIBRARIES ---
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
