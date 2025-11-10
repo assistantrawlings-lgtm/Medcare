@@ -1,7 +1,9 @@
 # Medcare
 I served as the Data Analyst for Medcare, a medtech project by Studio3lauchpad's Team 2, a cross-functional unit comprising Product Managers, UI/UX Designers, and Frontend/Backend Engineers.
 My primary role was to define the medical triage rules and translate them into a production-ready model capable of assigning an urgency level to patients based on their symptoms.
+
 Key Contributions:
+
 Triage Rule Operationalization: Developed a classification pipeline to predict both the Triage Color (Green, Yellow, Red) and Triage Level (e.g., Severe - Seek Immediate Care).
 Model Training & Performance: Trained and evaluated multiple classification algorithms using labeled symptom data, including Logistic Regression, Decision Tree, and Random Forest.
 Optimal Solution: Implemented Logistic Regression, achieving an optimal prediction accuracy of 88.89% for assigning the immediate care urgency level (Triage_Color), ensuring reliable patient guidance.
