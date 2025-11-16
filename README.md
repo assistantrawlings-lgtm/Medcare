@@ -1,5 +1,5 @@
 # Medcare
-I served as the Data Analyst for Medcare, a medtech project by Studio3lauchpad's Team 2, a cross-functional unit comprising Product Managers, UI/UX Designers, and Frontend/Backend Engineers.
+I served as the Data Analyst for Medcare, a medtech project by Studio3lauchpad's Team 2, a cross-functional unit comprising Product Managers, Data Analysts, UI/UX Designers, and Frontend/Backend Engineers.
 My primary role was to define the medical triage rules and translate them into a production-ready model capable of assigning an urgency level to patients based on their symptoms.
 
 Key Contributions:
